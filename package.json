@@ -1,0 +1,19 @@
+{
+  "name": "crdt-collab-doc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Conflict-free collaborative text document model with Lamport timestamps, merge, delete, and deterministic materialization.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
